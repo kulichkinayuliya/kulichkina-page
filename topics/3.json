@@ -1,1 +1,35 @@
-
+{
+    "title": "Лабораторная работа 6",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание алгоритма",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Sequence",
+                    "link": ""
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"" 
+        }
+    ]
+}
