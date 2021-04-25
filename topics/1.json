@@ -1,11 +1,11 @@
 {
-    "title": "UML Use Case",
+    "title": "Лабораторная работа 4",
     "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "Разработка диаграммы",
+                    "text": "Разработка диаграммы UML Use Case",
                     "class": "md-title"
                 }
             ]
@@ -32,7 +32,7 @@
         },
         {
             "type": "image",
-            "data": "img/use-case-diagram.png"
+            "data": "https://github.com/kulichkinayuliya/kulichkina-page/blob/master/img/73pFUiuG_gI.jpg"
         },
         {
             "type": "text",
