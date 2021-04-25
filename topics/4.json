@@ -1,0 +1,35 @@
+{
+    "title": "Лабораторная работа 7",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание состава",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: структура программных средств системы"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Component",
+                    "link": "https://github.com/kulichkinayuliya/kulichkinayuliya.github.io/blob/master/Course%20project/txt/UML%20Component"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/kulichkinayuliya/kulichkina-page/blob/master/img/7пункт.png?raw=true" 
+        }
+    ]
+}
