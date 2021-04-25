@@ -3,13 +3,13 @@
         "id": 1,
         "title": "Лабораторная работа 4",
         "description": "Диаграмма UML Use Case",
-        "preview": "https://github.com/kulichkinayuliya/kulichkina-page/blob/master/img/73pFUiuG_gI.jpg"
+        "preview": "img/73pFUiuG_gI.jpg"
     },
     {
         "id": 2,
         "title": "Лабораторная работа 5",
         "description": "Диаграмма UML Class",
-        "preview": "https://github.com/kulichkinayuliya/kulichkina-page/blob/master/img/d2NrQN4Cf58.jpg"
+        "preview": "img/d2NrQN4Cf58.jpg"
     },
     {
         "id": 3,
@@ -21,6 +21,6 @@
         "id": 4,
         "title": "Лабораторная работа 7",
         "description": "Диаграмма UML Component",
-        "preview": "https://github.com/kulichkinayuliya/kulichkina-page/blob/master/img/7пункт.png"
+        "preview": "img/7пункт.png"
     }
 ]
