@@ -1,6 +1,27 @@
 {
-    "title": "UML Class",
+    "title": "Лабораторная работа 5",
     "items": [
-        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Структура объекта системы",
+                    "class": "md-title"
+                }
+            ]
+        },
+     
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Class"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/kulichkinayuliya/kulichkina-page/blob/master/img/d2NrQN4Cf58.jpg?raw=true" 
+        }
     ]
 }
