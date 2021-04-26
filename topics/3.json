@@ -31,5 +31,26 @@
             "type": "image",
             "data":"https://github.com/kulichkinayuliya/kulichkina-page/blob/master/img/А31_6.jpg?raw=true" 
         }
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемые процессы и потоки данных: А4 Принять задачу"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Sequence",
+                    "link": "https://github.com/kulichkinayuliya/kulichkinayuliya.github.io/blob/master/Course%20project/txt/UML%20Sequence_A4"
+                }
+            ]
+        },
+        {
+            "type": "image",
+            "data":"https://github.com/kulichkinayuliya/kulichkina-page/blob/master/img/А4_6.jpg?raw=true" 
+        }
     ]
 }
